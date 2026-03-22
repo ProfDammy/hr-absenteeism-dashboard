@@ -31,5 +31,9 @@ To identify patterns and causes of employee absenteeism and provide insights tha
 - Dataset files
 - Analytical report
 
+## Dashboard Preview
+
+![Dashboard](Absenteeism_dashboard.png)
+
 ## Author
 Damilola Oluwagbamila
